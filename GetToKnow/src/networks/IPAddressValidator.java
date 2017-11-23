@@ -33,6 +33,7 @@ public class IPAddressValidator {
 		String myIPaddress = "192.168.1.194";
 
 		System.out.println("Validate IP : " + validate(myIPaddress));
+		System.out.println("Just testing...");
 
 	}
 
