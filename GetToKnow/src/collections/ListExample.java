@@ -13,6 +13,7 @@ public class ListExample {
 
 		for (String string : lis) {
 			System.out.println("String : : " + string);
+			System.out.println("test");
 		}
 	}
 
